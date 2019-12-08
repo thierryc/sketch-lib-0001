@@ -1,0 +1,25 @@
+{
+  "name": "sketch-lib-0001",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sklib": "./node_modules/.bin/sklib publish patch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thierryc/sketch-lib-0001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thierryc/sketch-lib-0001/issues"
+  },
+  "homepage": "https://github.com/thierryc/sketch-lib-0001#readme",
+  "dependencies": {
+    "sklib": "file:../sklib/packages/sklib"
+  },
+  "devDependencies": {}
+}
